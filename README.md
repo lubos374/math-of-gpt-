@@ -1,4 +1,4 @@
-# MicroGPT Lean 4
+# Math of GPT in Lean 4
 
 MicroGPT Lean 4 is a tiny GPT-style transformer implemented in Lean 4 with
 tensor shapes carried in dependent types. The repo combines a typed Lean
